@@ -56,6 +56,7 @@ background: radial-gradient(to left, #272A34, #010101);
 
 .conteudo-principal-imagem {
   height: 800px;
+  
 }
 
 .conteudo-principal-escrito {
@@ -126,14 +127,16 @@ background: radial-gradient(to left, #272A34, #010101);
     flex-direction: row;
     justify-content: center;
     padding: 32px;
-    
+    gap: 10px;
     border-top: 0.4px solid #4b4747;
   
     
 }
 
 .rodape-imagem {
-  height: 100px;
-  display: block;
-  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
 }
+
