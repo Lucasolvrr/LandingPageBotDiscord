@@ -133,10 +133,4 @@ background: radial-gradient(to left, #272A34, #010101);
     
 }
 
-.rodape-imagem {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-around;
-}
 
