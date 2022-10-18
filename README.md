@@ -1,7 +1,7 @@
 # Landing Page for Discord using HTML + CSS
 
 
-## Recomendo ultilizar:
+## Clone the repo:
 
 
 1. ##### Clone the repo:
