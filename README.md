@@ -15,6 +15,6 @@ git clone https://github.com/Lukas-xrz/LandingPageBotDiscord
 ```
 cd LandingPageBotDiscord
 ```
-Then execute on your browser, i recommend use Live server extension!
+Then execute on your browser, i recommend use "Live server" extension!
 
 Have Fun!
